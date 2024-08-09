@@ -1,0 +1,12 @@
+name: heatmap2
+title: heatmap2
+username: pirawna
+account: pirawna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12260194
+bundleId: 8820666
+url: https://pirawna.shinyapps.io/heatmap2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

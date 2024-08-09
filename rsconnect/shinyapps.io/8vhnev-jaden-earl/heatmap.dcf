@@ -1,0 +1,12 @@
+name: heatmap
+title: states_sales_test2
+username: 8vhnev-jaden-earl
+account: 8vhnev-jaden-earl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12254007
+bundleId: 8811117
+url: https://8vhnev-jaden-earl.shinyapps.io/heatmap/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
